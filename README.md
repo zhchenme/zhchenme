@@ -1,4 +1,6 @@
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhchenme&show_icons=true)
+-->
 
 但行好事，莫问前程。😄😄
 <!--
